@@ -1,0 +1,46 @@
+#navi{
+    background-color: #161179 !important;
+}
+
+#navi .navbar-brand,
+#navi .nav-link,
+#navi .btn{
+    color: #FBE4D6 !important;
+}
+
+#navi .nav-link:hover,
+#navi .btn:hover{
+    color: #261FB3 !important;
+    background-color: #FBE4D6 !important;
+}
+
+#navi .form-control{
+    background-color: #FBE4D6 !important;
+}
+
+form .d-flex {
+    margin-left: auto;
+}
+
+.img{
+    height: 200px;
+    border-radius: 50%;
+}
+
+.custom-bg{
+    background-color: white !important;
+    color: #0C0950 !important;
+}
+
+#foot{
+    background-color: #161179 !important;
+}
+
+.bi{
+    vertical-align: -.125em;
+    fill: #fbe4d6 !important;
+}
+
+.text-body-secondary {
+    color: #fbe4d6 !important;
+}

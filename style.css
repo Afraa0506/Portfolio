@@ -1,0 +1,84 @@
+.background{
+    background-color: #FBE4D6;
+}
+
+.name{
+    color: #0C0950 !important;
+}
+
+.background1{
+    background-color: white;
+}
+
+.img{
+    height: 200px;
+    border-radius: 50%;
+}
+
+h1{
+    font-family: "Sacramento", cursive !important;
+}
+
+#navi{
+    background-color: #161179 !important;
+}
+
+#navi .navbar-brand,
+#navi .nav-link,
+#navi .dropdown-item, 
+#navi .btn{
+    color: #FBE4D6 !important;
+}
+
+#navi .nav-link:hover,
+#navi .dropdown-item:hover,
+#navi .btn:hover{
+    color: #261FB3 !important;
+    background-color: #FBE4D6 !important;
+}
+
+.dropdown-menu{
+    background-color: #161179 !important;
+}
+
+#navi .form-control{
+    background-color: #FBE4D6 !important;
+}
+
+#edu .card-body{
+    background-color: #FBE4D6 !important;
+    color: #261FB3 !important;
+}
+
+#edu .border-bottom{
+    color: #0C0950 !important;
+}
+
+#featured-3 .pb-2,
+#featured-3 .text-body-emphasis,
+#featured-3 .para{
+    color: #0C0950 !important;
+}
+
+#featured-3 .feature-icon{
+    background-color: #fbe4d6 !important;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+
+#foot{
+    background-color: #161179 !important;
+}
+
+.bi{
+    vertical-align: -.125em;
+    fill: #fbe4d6 !important;
+}
+
+.text-body-secondary {
+    color: #fbe4d6 !important;
+}
