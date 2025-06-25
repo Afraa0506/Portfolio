@@ -17,6 +17,7 @@
 
 h1{
     font-family: "Sacramento", cursive !important;
+    margin-top: 12px;
 }
 
 #navi{
@@ -48,6 +49,18 @@ h1{
 #edu .card-body{
     background-color: #FBE4D6 !important;
     color: #261FB3 !important;
+}
+
+.navbar-toggler {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.navbar-toggler:hover,
+.navbar-toggler:focus {
+  background-color: rgb(41, 36, 139);
+  transition: 0.15;
 }
 
 #edu .border-bottom{
